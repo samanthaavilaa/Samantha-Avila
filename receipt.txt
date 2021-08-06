@@ -1,0 +1,12 @@
+==
+
+CODE			NAME			QUANTITY			SUBTOTAL
+americano 		Americano 		1					150.0
+brewedcoffee 		Brewed Coffee 		66					7260.0
+cappuccino 		Cappuccino 		15					2550.0
+espresso 		Espresso 		3					420.0
+
+
+Total:												10380.0
+
+==
